@@ -1,0 +1,15 @@
+C:\Users\orkha\OneDrive\Masaüstü\HomeSolution\HomeSolution\HomeSolution\bin\Debug\net6.0\HomeSolution.exe
+C:\Users\orkha\OneDrive\Masaüstü\HomeSolution\HomeSolution\HomeSolution\bin\Debug\net6.0\HomeSolution.deps.json
+C:\Users\orkha\OneDrive\Masaüstü\HomeSolution\HomeSolution\HomeSolution\bin\Debug\net6.0\HomeSolution.runtimeconfig.json
+C:\Users\orkha\OneDrive\Masaüstü\HomeSolution\HomeSolution\HomeSolution\bin\Debug\net6.0\HomeSolution.dll
+C:\Users\orkha\OneDrive\Masaüstü\HomeSolution\HomeSolution\HomeSolution\bin\Debug\net6.0\HomeSolution.pdb
+C:\Users\orkha\OneDrive\Masaüstü\HomeSolution\HomeSolution\HomeSolution\obj\Debug\net6.0\HomeSolution.csproj.AssemblyReference.cache
+C:\Users\orkha\OneDrive\Masaüstü\HomeSolution\HomeSolution\HomeSolution\obj\Debug\net6.0\HomeSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\OneDrive\Masaüstü\HomeSolution\HomeSolution\HomeSolution\obj\Debug\net6.0\HomeSolution.AssemblyInfoInputs.cache
+C:\Users\orkha\OneDrive\Masaüstü\HomeSolution\HomeSolution\HomeSolution\obj\Debug\net6.0\HomeSolution.AssemblyInfo.cs
+C:\Users\orkha\OneDrive\Masaüstü\HomeSolution\HomeSolution\HomeSolution\obj\Debug\net6.0\HomeSolution.csproj.CoreCompileInputs.cache
+C:\Users\orkha\OneDrive\Masaüstü\HomeSolution\HomeSolution\HomeSolution\obj\Debug\net6.0\HomeSolution.dll
+C:\Users\orkha\OneDrive\Masaüstü\HomeSolution\HomeSolution\HomeSolution\obj\Debug\net6.0\refint\HomeSolution.dll
+C:\Users\orkha\OneDrive\Masaüstü\HomeSolution\HomeSolution\HomeSolution\obj\Debug\net6.0\HomeSolution.pdb
+C:\Users\orkha\OneDrive\Masaüstü\HomeSolution\HomeSolution\HomeSolution\obj\Debug\net6.0\HomeSolution.genruntimeconfig.cache
+C:\Users\orkha\OneDrive\Masaüstü\HomeSolution\HomeSolution\HomeSolution\obj\Debug\net6.0\ref\HomeSolution.dll
